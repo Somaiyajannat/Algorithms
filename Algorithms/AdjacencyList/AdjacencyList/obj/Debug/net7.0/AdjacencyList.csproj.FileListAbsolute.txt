@@ -1,0 +1,15 @@
+E:\Algorithms\AdjacencyList\AdjacencyList\bin\Debug\net7.0\AdjacencyList.exe
+E:\Algorithms\AdjacencyList\AdjacencyList\bin\Debug\net7.0\AdjacencyList.deps.json
+E:\Algorithms\AdjacencyList\AdjacencyList\bin\Debug\net7.0\AdjacencyList.runtimeconfig.json
+E:\Algorithms\AdjacencyList\AdjacencyList\bin\Debug\net7.0\AdjacencyList.dll
+E:\Algorithms\AdjacencyList\AdjacencyList\bin\Debug\net7.0\AdjacencyList.pdb
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.csproj.AssemblyReference.cache
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.AssemblyInfoInputs.cache
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.AssemblyInfo.cs
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.csproj.CoreCompileInputs.cache
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.dll
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\refint\AdjacencyList.dll
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.pdb
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\AdjacencyList.genruntimeconfig.cache
+E:\Algorithms\AdjacencyList\AdjacencyList\obj\Debug\net7.0\ref\AdjacencyList.dll
