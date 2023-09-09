@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Algorithms\\Matrix\\Matrix\\Matrix.csproj": {}
+    "E:\\Algo\\Algorithms\\Matrix\\Matrix\\Matrix.csproj": {}
   },
   "projects": {
-    "E:\\Algorithms\\Matrix\\Matrix\\Matrix.csproj": {
+    "E:\\Algo\\Algorithms\\Matrix\\Matrix\\Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Algorithms\\Matrix\\Matrix\\Matrix.csproj",
+        "projectUniqueName": "E:\\Algo\\Algorithms\\Matrix\\Matrix\\Matrix.csproj",
         "projectName": "Matrix",
-        "projectPath": "E:\\Algorithms\\Matrix\\Matrix\\Matrix.csproj",
+        "projectPath": "E:\\Algo\\Algorithms\\Matrix\\Matrix\\Matrix.csproj",
         "packagesPath": "C:\\Users\\somai\\.nuget\\packages\\",
-        "outputPath": "E:\\Algorithms\\Matrix\\Matrix\\obj\\",
+        "outputPath": "E:\\Algo\\Algorithms\\Matrix\\Matrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\somai\\AppData\\Roaming\\NuGet\\NuGet.Config",

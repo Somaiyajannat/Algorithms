@@ -4,6 +4,8 @@ class Program
 {
     public static void Main(string[] args)
     {
+        // array declaration two types
+
         int[,] graph = new int[2, 3];
         int[,] graph1 = new int[2, 3] { { 1, 2, 3 }, { 4, 5, 6 } };
 
