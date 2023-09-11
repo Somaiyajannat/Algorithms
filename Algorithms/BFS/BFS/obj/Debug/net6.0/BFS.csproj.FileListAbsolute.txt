@@ -1,0 +1,15 @@
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS.exe
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS.deps.json
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS.runtimeconfig.json
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS.dll
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS.pdb
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.csproj.AssemblyReference.cache
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.AssemblyInfoInputs.cache
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.AssemblyInfo.cs
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.csproj.CoreCompileInputs.cache
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.dll
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\refint\BFS.dll
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.pdb
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS.genruntimeconfig.cache
+F:\Algorithms\Algorithms\Algorithms\BFS\BFS\obj\Debug\net6.0\ref\BFS.dll
